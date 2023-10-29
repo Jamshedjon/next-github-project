@@ -9,6 +9,15 @@ function AboutTeam() {
   return (
     <div>
       <h1>AboutTeam</h1>
+      <p>
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nulla enim,
+        voluptate fuga temporibus obcaecati quaerat sed, ipsum molestias soluta
+        qui assumenda facere aut officiis. Sunt necessitatibus perspiciatis quod
+        omnis itaque. Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+        Incidunt minima consequatur tempora illum, est nisi qui cumque, placeat
+        iusto totam iste aut facilis ea sequi saepe. Officiis cumque tempore
+        impedit.
+      </p>
       <Link href={"/"}>Home</Link>
       <div></div>
     </div>

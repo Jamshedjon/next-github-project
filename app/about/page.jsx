@@ -9,6 +9,15 @@ function About() {
   return (
     <div>
       <h1>About</h1>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ab expedita
+        laudantium veritatis. Fuga esse quis labore impedit porro quasi odio
+        vero aspernatur doloremque harum ad nihil animi quaerat, ea laboriosam?
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptas,
+        delectus quidem. Modi perspiciatis obcaecati molestiae voluptates
+        repellat ad, aspernatur necessitatibus pariatur maiores, deserunt
+        tempora, similique illo dolorum voluptatibus dolorem ipsam.
+      </p>
       <div>
         <Link href={"/"}>Home</Link>
       </div>
